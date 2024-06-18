@@ -1,0 +1,10 @@
+C:\Users\wg7201\mallar\project\SQLDatabase\bin\Debug\SQLDatabase.dacpac
+C:\Users\wg7201\mallar\project\SQLDatabase\bin\Debug\SQLDatabase.dll
+C:\Users\wg7201\mallar\project\SQLDatabase\bin\Debug\SQLDatabase.pdb
+C:\Users\wg7201\mallar\project\SQLDatabase\obj\Debug\SQLDatabase.sqlproj.AssemblyReference.cache
+C:\Users\wg7201\mallar\project\SQLDatabase\obj\Debug\SQLDatabase.dll
+C:\Users\wg7201\mallar\project\SQLDatabase\obj\Debug\SQLDatabase.pdb
+C:\Users\wg7201\mallar\project\SQLDatabase\obj\Debug\Model.xml
+C:\Users\wg7201\mallar\project\SQLDatabase\obj\Debug\refactor.xml
+C:\Users\wg7201\mallar\project\SQLDatabase\obj\Debug\postdeploy.sql
+C:\Users\wg7201\mallar\project\SQLDatabase\obj\Debug\predeploy.sql
