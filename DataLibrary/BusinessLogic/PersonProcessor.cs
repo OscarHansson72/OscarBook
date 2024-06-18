@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.Linq;
+using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -23,10 +24,18 @@ namespace DataLibrary.BusinessLogic
                 Password = password 
             };
 
-            string sql = @"insert into dbo.Person (FirstName, LastName, Email, PhoneNumber, DataOfBirth, Password)
+            string sql = @"insert into dbo.People (FirstName, LastName, Email, PhoneNumber, DataOfBirth, Password)
                           values (@FirstName, @LastName, @Email, @PhoneNumber, @DateOfBirth, @Password";
 
             return SQLDataAccess.SaveData(sql, data);
+        }
+
+        public static List<PersonModel> LoadPeople()
+        {
+            string sql = @"select Id, FirstName, LastName, Email, PhoneNumber, DateOfBirth
+                           from dbo.People";
+
+            return SQLDataAccess.LoadData<PersonModel>(sql);
         }
     }
 }
