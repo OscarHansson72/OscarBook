@@ -1,0 +1,2 @@
+C:\Users\wg7201\mallar\project\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\wg7201\mallar\project\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
