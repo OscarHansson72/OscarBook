@@ -1,2 +1,9 @@
 C:\Users\wg7201\mallar\project\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
 C:\Users\wg7201\mallar\project\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wg7201\mallar\project\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\wg7201\mallar\project\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\wg7201\mallar\project\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\wg7201\mallar\project\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\wg7201\mallar\project\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\wg7201\mallar\project\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\wg7201\mallar\project\DataLibrary\obj\Debug\DataLibrary.pdb

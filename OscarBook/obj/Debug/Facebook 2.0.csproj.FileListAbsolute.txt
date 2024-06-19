@@ -156,3 +156,7 @@ C:\Users\wg7201\mallar\project\OscarBook\obj\Debug\Facebook 2.0.csproj.CoreCompi
 C:\Users\wg7201\mallar\project\OscarBook\obj\Debug\Facebook 2.0.csproj.CopyComplete
 C:\Users\wg7201\mallar\project\OscarBook\obj\Debug\Facebook 2.0.dll
 C:\Users\wg7201\mallar\project\OscarBook\obj\Debug\Facebook 2.0.pdb
+C:\Users\wg7201\mallar\project\OscarBook\bin\DataLibrary.dll
+C:\Users\wg7201\mallar\project\OscarBook\bin\Dapper.dll
+C:\Users\wg7201\mallar\project\OscarBook\bin\DataLibrary.pdb
+C:\Users\wg7201\mallar\project\OscarBook\bin\Dapper.xml

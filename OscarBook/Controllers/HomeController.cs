@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using DataLibrary;
+using static DataLibrary.BusinessLogic.PersonProcessor;
 
 namespace Facebook_2._0.Controllers
 {
@@ -41,6 +43,12 @@ namespace Facebook_2._0.Controllers
         {
             if(ModelState.IsValid)
             {
+                int recordsCreated = CreatePerson(model.FirstName, 
+                    model.LastName, 
+                    model.Email, 
+                    model.PhoneNumber, 
+                    model.DateOfBirth, 
+                    model.Password);
                 return RedirectToAction("Index");
             }
 
